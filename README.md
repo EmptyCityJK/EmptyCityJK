@@ -1,7 +1,13 @@
-## Hi there 👋
-<img src = "https://img.shields.io/badge/Empty_City-Github__Home-blue">
+## Hi! I'm EmptyCity👋 | <img src = "https://img.shields.io/badge/Empty_City-Github__Home-blue"> | <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=EmptyCityJK.readme&left_text=%E6%B5%8F%E8%A7%88%E9%87%8F%20Visitors" /> 
+### 🔭 I’m currently studying in Yunnan University.
+### 🌱 I’m currently learning AI and algorithms.
 
 [![EmptyCity's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmptyCityJK)](https://github.com/anuraghazra/github-readme-stats)
+
+<img alt="octal's github chart" src="https://ghchart.rshah.org/EmptyCityJK" />
+
+
+
 <!--
 **EmptyCityJK/EmptyCityJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
